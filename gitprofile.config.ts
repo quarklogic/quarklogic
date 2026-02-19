@@ -96,11 +96,11 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Boeing',
+      position: 'Systems Engineer',
+      from: 'September 2020',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://www.boeing.com',
     },
     {
       company: 'Company Name',
@@ -112,24 +112,18 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
+      name: 'CompTIA Security+',
       body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
+      year: 'March 2018',
       link: 'https://example.com',
     },
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
+      institution: 'Cal State Fullerton',
+      degree: 'B.S. Physics with Minor in Mathematics',
       from: '2015',
       to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
     },
   ],
   publications: [
